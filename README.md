@@ -10,3 +10,5 @@ GitHub Organization - https://www.github.com/Embernite
 Trello - https://www.github.com/Embernite
 
 Discord - https://discord.gg/Z3DkdsX
+
+Twitter - https://www.twitter.com/embernite
