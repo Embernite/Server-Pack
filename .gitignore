@@ -8,7 +8,7 @@ backups
 backups/*
 config/Chikachi/*
 server.properties
-server.properties.template
+server.properties.example
 *.zip
 snapshots-server
 snapshots-server/*
