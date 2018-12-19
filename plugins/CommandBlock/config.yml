@@ -1,0 +1,8 @@
+command-whitelist:
+ - '/help'
+whitelist-commands: true
+command-blacklist:
+ - '/plugins'
+blacklist-commands: false
+command-not-whitelisted: '&cInvalid command... Type /help for a list of commands.'
+command-blacklisted: '&cThis command is blacklisted.'
