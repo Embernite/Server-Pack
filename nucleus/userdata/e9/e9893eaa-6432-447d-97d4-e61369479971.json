@@ -3,24 +3,24 @@
   "vanish": false,
   "lastKnownName": "mindamp",
   "lastLocation": {
-    "world": "75093040-b07a-47c0-8480-99b7eb3001d4",
+    "world": "2969e356-3901-4630-b41b-7c95c4c1851f",
     "rotx": 0.0,
     "rotz": 0.0,
     "roty": 0.0,
-    "x": -173.37513144546742,
-    "y": 70.0,
-    "z": 275.9065249598774
+    "x": 50.754869359811295,
+    "y": 65.0,
+    "z": 201.1330283933004
   },
-  "lastLogin": 1545307266432,
-  "lastLogout": 1545307491699,
+  "lastLogin": 1545307953163,
+  "lastLogout": 1545308097078,
   "lastIP": "/127.0.0.1",
-  "firstJoin": 1545307264998,
+  "firstJoin": 1545307951913,
   "startedFirstJoin": false,
   "invulnerable": false,
   "jailOnNextLogin": false,
   "fly": false,
-  "warnings": [],
   "mail": [],
+  "kitLastUsedTime": {},
   "notes": [],
-  "kitLastUsedTime": {}
+  "warnings": []
 }
