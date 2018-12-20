@@ -322,10 +322,10 @@ exportpath: export
 
 # The network-interface the webserver will bind to (0.0.0.0 for all interfaces, 127.0.0.1 for only local access).
 # If not set, uses same setting as server in server.properties (or 0.0.0.0 if not specified)
-#webserver-bindaddress: 0.0.0.0
+webserver-bindaddress: 0.0.0.0
 
 # The TCP-port the webserver will listen on.
-webserver-port: 8123
+webserver-port: 47000
 
 # Maximum concurrent session on internal web server - limits resources used in Bukkit server
 max-sessions: 30
@@ -382,7 +382,7 @@ player-sort-permission-nodes:
   - bukkit.command.op
   
 # Set sidebaropened: 'true' to pin menu sidebar opened permanently, 'pinned' to default the sidebar to pinned, but allow it to unpin
-#sidebaropened: true
+sidebaropened: true
 
 # Customized HTTP response headers - add 'id: value' pairs to all HTTP response headers (internal web server only)
 #http-response-headers:
@@ -410,8 +410,8 @@ check-banned-ips: true
 
 # Default selection when map page is loaded
 defaultzoom: 0
-defaultworld: world
-defaultmap: flat
+defaultworld: Arlon
+defaultmap: surface
 # (optional) Zoom level and map to switch to when following a player, if possible
 #followzoom: 3
 #followmap: surface
