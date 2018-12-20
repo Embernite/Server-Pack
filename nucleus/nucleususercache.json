@@ -1,4 +1,9 @@
 {
-  "node": {},
+  "node": {
+    "e9893eaa-6432-447d-97d4-e61369479971": {
+      "ipAddress": "127.0.0.1",
+      "isMuted": false
+    }
+  },
   "version": 1
 }

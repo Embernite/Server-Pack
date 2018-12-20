@@ -1,0 +1,26 @@
+{
+  "isFrozen": false,
+  "vanish": false,
+  "mail": [],
+  "kitLastUsedTime": {},
+  "notes": [],
+  "lastKnownName": "mindamp",
+  "lastLocation": {
+    "world": "3429bdd2-6900-4b99-ab50-1b7fa5ee3a9b",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 1.6702936915680766,
+    "y": 71.0,
+    "z": 240.68951350543648
+  },
+  "lastLogin": 1545289158941,
+  "lastLogout": 1545289197724,
+  "lastIP": "/127.0.0.1",
+  "firstJoin": 1545289157552,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "warnings": [],
+  "jailOnNextLogin": false,
+  "fly": false
+}

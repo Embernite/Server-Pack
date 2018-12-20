@@ -1,0 +1,76 @@
+worlds:
+-   sealevel: 63
+    nether: false
+    name: Arlon
+    the_end: false
+    title: Arlon/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM50
+    the_end: false
+    title: Abyssal_Wasteland/The Abyssal Wasteland
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM51
+    the_end: false
+    title: The_Dreadlands/The Dreadlands
+    height: 256
+-   sealevel: 65
+    nether: false
+    name: DIM-9999
+    the_end: false
+    title: DIM-9999/ExtraUtils2_Quarry_Dim
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM52
+    the_end: false
+    title: Omothol/Omothol
+    height: 256
+-   sealevel: 120
+    nether: false
+    name: DIM20
+    the_end: false
+    title: DIM20/betweenlands
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM53
+    the_end: false
+    title: The_Dark_Realm/The Dark Realm
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11325
+    the_end: false
+    title: DIM-11325/Deep Dark
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM66
+    the_end: false
+    title: DIM66/EREBUS
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: DIM1/the_end
+    height: 256
+-   sealevel: 31
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: DIM-1/the_nether
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM7
+    the_end: false
+    title: DIM7/twilight_forest
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
