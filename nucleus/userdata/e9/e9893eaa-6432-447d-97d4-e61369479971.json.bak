@@ -1,26 +1,26 @@
 {
   "isFrozen": false,
   "vanish": false,
-  "mail": [],
-  "kitLastUsedTime": {},
-  "notes": [],
   "lastKnownName": "mindamp",
   "lastLocation": {
-    "world": "3429bdd2-6900-4b99-ab50-1b7fa5ee3a9b",
+    "world": "8f81bd6a-c93d-4f0c-9ebe-00cfa3faa2e2",
     "rotx": 0.0,
     "rotz": 0.0,
     "roty": 0.0,
-    "x": 1.6702936915680766,
-    "y": 71.0,
-    "z": 240.68951350543648
+    "x": 239.49424617683886,
+    "y": 69.92159999847412,
+    "z": 248.05139905784952
   },
-  "lastLogin": 1545289158941,
-  "lastLogout": 1545289197724,
+  "lastLogin": 1545292667628,
+  "lastLogout": 1545292709250,
   "lastIP": "/127.0.0.1",
-  "firstJoin": 1545289157552,
+  "firstJoin": 1545292666091,
   "startedFirstJoin": false,
   "invulnerable": false,
-  "warnings": [],
   "jailOnNextLogin": false,
-  "fly": false
+  "fly": false,
+  "kitLastUsedTime": {},
+  "mail": [],
+  "notes": [],
+  "warnings": []
 }
