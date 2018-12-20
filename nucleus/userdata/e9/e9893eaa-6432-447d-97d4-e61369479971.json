@@ -11,16 +11,16 @@
     "y": 84.0,
     "z": 168.69999998807907
   },
-  "lastLogin": 1545305897468,
+  "lastLogin": 1545307266432,
   "lastLogout": 1545306138256,
   "lastIP": "/127.0.0.1",
-  "firstJoin": 1545305718902,
+  "firstJoin": 1545307264998,
   "startedFirstJoin": false,
   "invulnerable": false,
   "jailOnNextLogin": false,
   "fly": false,
   "warnings": [],
+  "mail": [],
   "notes": [],
-  "kitLastUsedTime": {},
-  "mail": []
+  "kitLastUsedTime": {}
 }
