@@ -28,3 +28,4 @@ banned-*
 .mixin*
 *.dll
 autostart.stamp
+plugins/magibridge/MagiBridge.conf

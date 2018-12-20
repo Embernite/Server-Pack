@@ -1,17 +1,17 @@
 # MagiBridge, by Eufranio
 # 
 # You can use the following placeholders on the DISCORD -> MC formats:
-#     %user% -> user who sent the message in the Discord channel
-#     %message% -> message that was sent to the channel
-#     %toprole% -> name of the highest role/rank of the user in the Discord server
-#     %toprolecolor% -> color of the user's role, according to the replacer at the bottom of this config
+#    %user% -> user who sent the message in the Discord channel
+#    %message% -> message that was sent to the channel
+#    %toprole% -> name of the highest role/rank of the user in the Discord server
+#    %toprolecolor% -> color of the user's role, according to the replacer at the bottom of this config
 # 
 # You can use the following placeholder on the MC -> DISCORD formats:
-#     %player% -> player who sent the message in the chat channel
-#     %prefix% -> prefix of the player that sent the message. Usually set via permission plugins
-#     %topgroup% -> name of the highest group of the player who sent the message
-#     %nick% -> nickname of the player. If no nick is assigned to the player, his name will be used instead
-#     %message% -> message that the player sent
+#    %player% -> player who sent the message in the chat channel
+#    %prefix% -> prefix of the player that sent the message. Usually set via permission plugins
+#    %topgroup% -> name of the highest group of the player who sent the message
+#    %nick% -> nickname of the player. If no nick is assigned to the player, his name will be used instead
+#    %message% -> message that the player sent
 
 channel {
     # Role that users need to have to be able to send colored chat to minecraft
@@ -94,7 +94,7 @@ core {
     # Should MagiBridge send advancement messages to Discord?
     advancement-messages-enabled=true
     # Bot Token of the Bot User that you want to be used when sending messages to Discord
-    bot-token=""
+    bot-token="TEST"
     # Set to false if MagiBridge should NOT cut messages coming from Discord with more than
     # 120 characters. This can turn the chat ugly if someone sends a big message
     cut-messages=false

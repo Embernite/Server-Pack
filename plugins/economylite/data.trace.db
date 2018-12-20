@@ -30,3 +30,7 @@ org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
 org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
 2018-12-20 00:51:37 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2018-12-20 01:04:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2018-12-20 01:04:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
